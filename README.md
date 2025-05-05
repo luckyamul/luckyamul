@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔖[ Resume ] ( https://drive.google.com/file/d/1S3nj6t7BKZyJnMTF6o9MFEtMUZMOya-b/view?usp=sharing )
+- 🔖[Resume](https://drive.google.com/file/d/1S3nj6t7BKZyJnMTF6o9MFEtMUZMOya-b/view?usp=sharing)
 
 <!--
 **luckyamul/luckyamul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
